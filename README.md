@@ -11,6 +11,9 @@ pip install tk
 How to start making a simple registration form using Tkinter :
 
 Step 1 : The first step is to import the tkinter module (using either tkinter import * or just import tkinter).
+
 Step 2 : The primary window of the GUI programme was created.
+
 Step 3 : Include one or more widgets in the GUI programme (controls such as buttons, labels, and text boxes, etc.).
+
 Step 4 : Enter the primary events to react to each event that the user has triggered.
