@@ -17,3 +17,13 @@ Step 2 : The primary window of the GUI programme was created.
 Step 3 : Include one or more widgets in the GUI programme (controls such as buttons, labels, and text boxes, etc.).
 
 Step 4 : Enter the primary events to react to each event that the user has triggered.
+
+Making a registration form using the Tkinter in Python :
+This section will discuss the tkinter-based registration form written in Python. At that time, we will talk about widgets and how to use them. The registration page's interface is the only part of the code that is published here. The entire application code is published at the bottom.
+
+So, let's begin by building a simple registration form now, one that requires no backend effort. It can be utilised for database connectivity in the future.
+
+Firstly, we will import the Tkinter module into the Python program.
+
+from tkinter import*  
+base = Tk()  
