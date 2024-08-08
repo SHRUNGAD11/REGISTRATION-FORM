@@ -1,4 +1,8 @@
 # REGISTRATION-FORM
+OUTPUT:
+
+![Screenshot 2024-08-08 105316](https://github.com/user-attachments/assets/fe5af60d-e843-459e-9e12-d6c0a1b534c4)
+
 An ordinary Python library is Tkinter. The quickest and simplest approach to create an object-oriented GUI application is with Python and the tkinter package.
 I like to create different GUIs for my Machine learning projects. It gives me freedom of expression to communicate with my end user. Creating a GUI myself for my Machine learning Projects feels like, I am telling the story myself more than anyone else telling my story.
 
